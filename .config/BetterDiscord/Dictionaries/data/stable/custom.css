@@ -1,0 +1,4 @@
+ /* Using an installed font. Example using Comic Sans */
+      ::-webkit-input-placeholder, body, button, input, select, textarea {
+          font-family: "CaskaydiaCove Nerd Font";
+      }

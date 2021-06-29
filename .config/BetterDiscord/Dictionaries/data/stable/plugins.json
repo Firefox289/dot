@@ -1,0 +1,10 @@
+{
+    "FreeEmojis": false,
+    "AnimatedStatus": false,
+    "AutoStartRichPresence": false,
+    "ZeresPluginLibrary": true,
+    "SpotifyControls": true,
+    "BDFDB": true,
+    "MessageLoggerV2": true,
+    "XenoLib": true
+}
