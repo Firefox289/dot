@@ -1,0 +1,31 @@
+{
+	"badgeCache": {
+		"793378746438385685": {
+			"flags": 256,
+			"premium_since": "2021-06-11T03:43:38.480229+00:00",
+			"premium_guild_since": "2021-06-30T10:53:11.218000+00:00",
+			"date": 1625826230216
+		}
+	},
+	"badges": {
+		"BUG_HUNTER": true,
+		"CERTIFIED_MODERATOR": true,
+		"EARLY_SUPPORTER": true,
+		"EARLY_VERIFIED_DEVELOPER": true,
+		"HYPESQUAD": true,
+		"HYPESQUAD_ONLINE_HOUSE_1": false,
+		"HYPESQUAD_ONLINE_HOUSE_2": false,
+		"HYPESQUAD_ONLINE_HOUSE_3": false,
+		"PARTNER": true,
+		"PREMIUM": true,
+		"PREMIUM_GUILD_SUBSCRIPTION": true,
+		"STAFF": true
+	},
+	"indicators": {
+		"CURRENT_GUILD_BOOST": true
+	},
+	"places": {
+		"chat": true,
+		"memberList": true
+	}
+}

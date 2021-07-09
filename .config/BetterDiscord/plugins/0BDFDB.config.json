@@ -1,0 +1,14 @@
+{
+	"changeLogs": {
+		"BDFDB": "1.7.4",
+		"BadgesEverywhere": "1.7.8"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	}
+}

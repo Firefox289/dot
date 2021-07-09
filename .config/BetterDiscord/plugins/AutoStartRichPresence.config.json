@@ -1,0 +1,16 @@
+{
+    "settings": {
+        "button1URL": "https://discord.gg/t2WPjGDk",
+        "button1Label": "server",
+        "clientID": "863002221142999090",
+        "state": "I'm dying",
+        "details": "Hi horny",
+        "largeImageKey": "external-content_duckduckgo_com",
+        "largeImageText": "69",
+        "smallImageKey": "96alh1v6um571",
+        "smallImageText": "69",
+        "enableStartTime": true,
+        "button2Label": "github",
+        "button2URL": "https://github.com/Firefox289?tab=repositories"
+    }
+}
